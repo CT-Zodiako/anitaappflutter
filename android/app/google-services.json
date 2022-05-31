@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "683851425456",
+    "project_id": "proyecto-anita",
+    "storage_bucket": "proyecto-anita.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683851425456:android:64d1df32052f146999bd75",
+        "android_client_info": {
+          "package_name": "com.example.anita"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683851425456-n3gu4jsn7tjjd9rr2ks9bi3qqp1t02fv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPE2kHpD_77xz03y01GkvTZxVHnRVZ66A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683851425456-n3gu4jsn7tjjd9rr2ks9bi3qqp1t02fv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
